@@ -8,6 +8,7 @@
 - Full Requests
 - No proxy required
 - Fast scraping
+- Unlimited scraping
  
 # Contact:
 
