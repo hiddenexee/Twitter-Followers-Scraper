@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🗙 Twitter Following Scraper</h1>
+  <h1>🗙 Twitter Followers Scraper</h1>
 </div>
  
 # Features:
